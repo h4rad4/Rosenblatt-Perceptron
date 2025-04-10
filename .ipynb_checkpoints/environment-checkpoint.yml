@@ -1,9 +1,0 @@
-name: redesneurais
-channels:
-  - https://repo.anaconda.com/pkgs/main
-  - https://repo.anaconda.com/pkgs/r
-dependencies:
-  - jupyter
-  - python
-  - pandas
-prefix: /home/geovana/miniconda3/envs/redesneurais
